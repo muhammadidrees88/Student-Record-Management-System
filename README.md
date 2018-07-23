@@ -1,2 +1,2 @@
-# Student-Record-Management-System-_c-code
+# Student-Record-Management-System-c++-code
 Student record-management system using c++ language.This task is done using file handling technique and very easy to comprehend.This record management system will give thorough information about the info of a student regarding its name,father name,class,roll number and section etc .One can search any student by any source mentioned above either by roll number by name etc etc.,
